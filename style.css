@@ -1,0 +1,85 @@
+body{
+  background-image:/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f5f6f6+0,dbdce2+21,b8bac6+49,dddfe3+80,f5f6f6+100;Grey+Pipe */
+   #f5f6f6; /* Old browsers */
+  background: -moz-linear-gradient(top,  #f5f6f6 0%, #dbdce2 21%, #b8bac6 49%, #dddfe3 80%, #f5f6f6 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top,  #f5f6f6 0%,#dbdce2 21%,#b8bac6 49%,#dddfe3 80%,#f5f6f6 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom,  #f5f6f6 0%,#dbdce2 21%,#b8bac6 49%,#dddfe3 80%,#f5f6f6 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f5f6f6', endColorstr='#f5f6f6',GradientType=0 ); /* IE6-9 */
+  ;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: lighter;
+  color: rgb(103, 114, 111);
+}
+.заголовок1{
+    font-weight: 10;
+    text-align: center;
+    letter-spacing: 10px; 
+}
+.пар1{
+    font-size: 30px;
+    text-align: center;
+}
+.блоксфото{
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 50%;
+}
+.фото1{
+    width: 100%;
+    border: 7px solid white;
+}
+.статья1{
+    text-align:center;
+    font-size: 20px;
+    margin: 0% 25%;
+    align-content: center;
+}
+.статья2{
+    font-size: 23px;
+    text-align: center;
+    ;}
+.список{
+    font-size: 30px;
+    text-align:left;
+}
+h2{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: lighter;
+    margin:0% 25%;
+    text-align: center;
+    margin-top:30px; 
+}
+li{
+    margin: 0px 0px 10px 0px;
+}
+.Отправьте{
+    text-align: center;}
+.form{
+    letter-spacing: 3px;
+    text-align:center;
+    height: 100px;
+     /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#aebcbf+0,6e7774+36,0a0809+100 */
+background: #aebcbf; /* Old browsers */
+background: -moz-linear-gradient(top,  #aebcbf 0%, #6e7774 36%, #0a0809 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #aebcbf 0%,#6e7774 36%,#0a0809 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #aebcbf 0%,#6e7774 36%,#0a0809 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#aebcbf', endColorstr='#0a0809',GradientType=0 ); /* IE6-9 */
+opacity: 0.7;
+box-shadow: 0px 0px 20px 9px black;
+color: aliceblue;
+border-radius: 10px;
+width: 80%;
+margin-left: 150px;
+
+}
+.полной{
+    text-align: center;
+}
+.button{
+    text-transform:uppercase;
+    color: rgb(0, 0, 0);
+    border: none; 
+    width: 10%;
+    margin: 1% 0% 0% 40%; 
+}
+
